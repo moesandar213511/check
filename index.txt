@@ -1,1 +1,3 @@
-Hello index txt file. Update index file.
+Hello index txt file. 
+Update index file from Online.
+Update index file from CLI.
